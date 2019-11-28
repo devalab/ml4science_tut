@@ -39,3 +39,7 @@
 
         sudo apt install python3-pip
 
+#### Libraries
+* Install the above mentioned libraries by executing the final command on terminal while you're connected to the internet
+
+		pip3 install -r requirements.txt

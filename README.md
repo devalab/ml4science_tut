@@ -39,3 +39,15 @@
 
         sudo apt install python3-pip
 
+#### Git
+* Install git using the following command
+
+		sudo apt install git
+* To clone the repository
+
+		git clone https://github.com/devalab/ml4science_tut.git
+
+#### Libraries
+* Install the above mentioned libraries by executing the final command on terminal while you're connected to the internet
+
+		pip3 install -r requirements.txt

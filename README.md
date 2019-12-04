@@ -1,5 +1,8 @@
 # ML4Science Hands on Session
 
+## Q8 Secondary structure prediction contest submission window is open [4th Dec 6:00pm - 6:15pm]
+* Instructions for submission and submission form can be found here -> http://bit.ly/ML4SCI-contest2
+
 
 ## Prerequisites
 
@@ -37,6 +40,8 @@
 #### Python3 Environment
 * Install python3 package manager pip3 on ubuntu by executing the following in the terminal
 
+
+
         sudo apt install python3-pip
 
 #### Git
@@ -51,3 +56,4 @@
 * Install the above mentioned libraries by executing the final command on terminal while you're connected to the internet
 
 		pip3 install -r requirements.txt
+
